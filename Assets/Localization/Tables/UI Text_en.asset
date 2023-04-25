@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: edb7c2e24639d42b7bd9bea7c49d2101, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8562452627139592194
+  m_TableData:
+  - m_Id: 74292649984
+    m_Localized: tap to start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3287494418432
+    m_Localized: then, tap to jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4520502353920
+    m_Localized: 'Last Score: {global.lastScore}'
+    m_Metadata:
+      m_Items:
+      - rid: 8562452627139592194
+  - m_Id: 4661238030336
+    m_Localized: 'Best Score: {global.bestScore}'
+    m_Metadata:
+      m_Items:
+      - rid: 8562452627139592194
+  - m_Id: 15128702476288
+    m_Localized: Boosts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15414397493248
+    m_Localized: Colors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19470612422656
+    m_Localized: jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19544000159744
+    m_Localized: speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19584450027520
+    m_Localized: coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21991389126656
+    m_Localized: 'distance: {global.distance}'
+    m_Metadata:
+      m_Items:
+      - rid: 8562452627139592194
+  - m_Id: 22140714737664
+    m_Localized: 'coins: {global.coins}'
+    m_Metadata:
+      m_Items:
+      - rid: 8562452627139592194
+  - m_Id: 22212546387968
+    m_Localized: 'score: {global.score}'
+    m_Metadata:
+      m_Items:
+      - rid: 8562452627139592194
+  - m_Id: 22272747233280
+    m_Localized: 'high score: {global.highScore}'
+    m_Metadata:
+      m_Items:
+      - rid: 8562452627139592194
+  - m_Id: 794762608107520
+    m_Localized: 'Make your ads
+
+      more relevant'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 795034323509248
+    m_Localized: 'Get ads that are more relevant
+
+      and support keeping this
+      game
+
+      free by allowing tracking.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 795523689734144
+    m_Localized: next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15522486341853184
+    m_Localized: done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15573793614323712
+    m_Localized: 'continue by
+
+      watching ad'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17389973123620864
+    m_Localized: 'tap to
+
+      continue'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8562452627139592194
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e0ef821c04000000e06f473d04000000e0ef440014000000e06f092314000000e0efc23314000000e02fc741140000
